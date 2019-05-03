@@ -1,8 +1,7 @@
-#Categorize products from image(s) and text descriptors.
-
+# Categorize products from image(s) and text descriptors
 Based on following paper: https://arxiv.org/pdf/1904.09037.pdf
 
-##Problem Statement:
+## Problem Statement:
 Relates primarily to products on retail/marketplace sites such as Amazon. The problem deals with 3 main aspects:
 * We are trying to categorize products. Number of categories ~5000
 * Product has images (1 or more)
@@ -14,7 +13,7 @@ b) Find mis-categorized products
 
 **Please use this file as a _living document_, where key decisions/events are captured.**
 
-##Steps:
+## Steps:
 
 1. What are the categories? 
 Use Google taxonomy_w_ids file (5400 + categories). 
