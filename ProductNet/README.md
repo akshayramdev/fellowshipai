@@ -15,7 +15,7 @@ Use Google taxonomy_w_ids file (5400 + categories).
 This is large, make sense to use a subset in the beginning. Go deep or go broad? (5/3/19)
 
 2. Need a starting database
-  1. Ask Cdiscount (Kaggle competition)
-  2. scrape online retailers websites - must have description and images.
+* Ask Cdiscount (Kaggle competition)
+* Scrape online retailers websites - must have description and images.
 
 3. Modeling
