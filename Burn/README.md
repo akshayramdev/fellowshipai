@@ -1,5 +1,7 @@
 # Burn classification
 
+## Current progress
+Accuracy 0.9459 with DenseNet-161 and TTA (scale=1.05), see end of burn1.ipynb
 
 
 ## Hyperparamters and model slection summary
