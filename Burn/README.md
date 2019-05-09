@@ -19,7 +19,7 @@ In summary: optimal values of hyperparameters
 
 ![Accuracy vs Droupout rates](https://github.com/fellowship/platform-demos3/blob/master/Burn/ps.png)
 
-![Accuracy vs Batch Size](https://github.com/fellowship/platform-demos3/blob/master/Burn/bs.png)
+#![Accuracy vs Image Size](https://github.com/fellowship/platform-demos3/blob/master/Burn/bs.png)
 
 ![Accuracy vs Model Architectures](https://github.com/fellowship/platform-demos3/blob/master/Burn/arch.png)
 
