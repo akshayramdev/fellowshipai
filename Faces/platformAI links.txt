@@ -1,0 +1,8 @@
+I uploaded <100 pictures from the VGGFace2 test set:
+https://platform.ai/app/imageTraining/projects/ahJzfnBsYXRmb3JtLWFpLXByb2RyUwsSBFVzZXIiHE5XSmc0dE1obnZQdnFKUlk1eGoyNmNVUFI1SjIMCxIHUHJvamVjdCIgMTIzYTMwZWFkMzdhNDE2ZWI0N2ZkOGM2YmY0MTNhMDIM
+
+95% accuracy for 3 classes
+n000289 152 images
+n000141 333 images
+n000218 218 images
+https://platform.ai/app/imageTraining/projects/ahJzfnBsYXRmb3JtLWFpLXByb2RyUwsSBFVzZXIiHE5XSmc0dE1obnZQdnFKUlk1eGoyNmNVUFI1SjIMCxIHUHJvamVjdCIgMDk3Mzg5MzY3NjUxNDc0NTlhZWI5NGYyZWQwNDBkZjcM
