@@ -4,7 +4,7 @@
 
 Identification of burn severity is an important step in diagnosis and treatment, but standard clinical methods are
 only 60-80% accurate[[1]](https://www.sciencedirect.com/science/article/abs/pii/S0305417900001182?via%3Dihub).  Our goal was to create an classifier to predict burn severity based on an image.
-We used a dataset curated by cohort 13 of 755 web-scraped images of first, second, and third degree burns and non-burn images of skin, with a randomly selected validation set.
+We used a dataset collected and curated by cohort 13 of 742 web-scraped images of first, second, and third degree burns and non-burn images of skin, with a randomly selected validation set.
 
 ## fastai model
 
