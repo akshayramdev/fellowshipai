@@ -117,7 +117,7 @@ We submit two results i.e. k=333 from KNeighbours and k=300 from Annoy were subm
 
 
 ![sub0](row.png)
-![sub1](submission.png)
+![sub1](submissions.png)
 
 
 ---
