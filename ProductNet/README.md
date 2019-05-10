@@ -13,6 +13,12 @@ b) Find mis-categorized products
 
 **Please use this file as a _living document_, where key decisions/events are captured.**
 
+## Dataset citations
+* R. He, J. McAuley. Modeling the visual evolution of fashion trends with one-class collaborative filtering. WWW, 2016
+* J. McAuley, C. Targett, J. Shi, A. van den Hengel. Image-based recommendations on styles and substitutes. SIGIR, 2015
+
+Stored in gs://platform-ai-research/datasets/ProductNet/
+
 ## Steps:
 
 1. What are the categories? 
