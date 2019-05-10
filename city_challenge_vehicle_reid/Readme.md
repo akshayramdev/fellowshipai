@@ -168,7 +168,7 @@ Fastai Library
 ---
 
 
-**Note** : For pretrained model and training on stanford cars dataset, refer `Stanford Cars fastai.ipynb` notebook in same directory.
+**Note** : For pretrained model and training on stanford cars dataset, refer `Stanford_Cars_fastai.ipynb` notebook in same directory.
 
 ---
 
