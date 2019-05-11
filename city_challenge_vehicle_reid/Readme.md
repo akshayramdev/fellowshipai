@@ -138,7 +138,7 @@ We **rank 71 among 84 teams** that participated in the Nvidia AI City challenge 
 
 Rank 71, Good?
 
-4 days from training to first submission on last day of challenge, go figure!
+4 days from training to first submission on last day of challenge, well we tried and learned a lot!
 
 Next Steps,
 
