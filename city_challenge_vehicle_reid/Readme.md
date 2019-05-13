@@ -39,7 +39,7 @@ Content in the directory:
 ## Evaluation Task
 
 
-Find the image(s) in the test set that are from the same identity as the objects in each query image particulary, a list of the top 100 matches from the test set for each query image.
+Find the image(s) in the test set that are from the same identity as the objects in each query image particularly, a list of the top 100 matches from the test set for each query image.
 
 
 ---
@@ -53,11 +53,11 @@ We decided to solve this challenge using two approaches detailed below.
 
 1) **Image Classifiers**
 
-We are given 36935 training images where each image corresponding to one of the 333 classes. We will train a image classifier with ResNet50 as architecture using different pretrained models using fast.ai. Now we have two ways of training image classifier.
+We are given 36935 training images where each image corresponds to one of the 333 classes. We will train an image classifier with ResNet50 as architecture using different pretrained models using fast.ai. Now we have two ways of training image classifier.
 
-- **ImageNet pretrained model** : This is straight forward approach of using ResNet50 model trained on ImageNet dataset is used as pretrained model for image classifier. This classifier will classify training images into 333 classes.(*Easy, no?*)
+- **ImageNet pretrained model** : This is a straight forward approach of using ResNet50 model trained on ImageNet dataset as pretrained model for image classifier. This classifier will classify training images into 333 classes.(*Easy, no?*)
     
-- **Stanford Cars pretrained model** : Here we will train a seperate ResNet50 model on [stanford cars dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) which contains 16185 car images to be classified into 196 classes of cars. We will use the pretrained model trained on stanford cars dataset instead of ImageNet as done above to classify the training images from Nvidia AI City Challenge into 333 classes.
+- **Stanford Cars pretrained model** : Here we will train a seperate ResNet50 model on [stanford cars dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) which contains 16185 car images to be classified into 196 classes of cars. We will use the pretrained model trained on stanford cars dataset instead of ImageNet(as done in the above method) to classify the training images from Nvidia AI City Challenge into 333 classes.
   
  
 After we train classifier we use the penultimate layer (Linear layer of size 512) to extract features of size 512 for each test and query image. As evaluation task demands us to find top 100 test images matching to each query image in ascending order of distance, we will find the distances using three methods:
@@ -79,7 +79,7 @@ We will use siamese network with triplet loss as baseline.
 
 ## Experiments
 
-As stanford cars dataset contains cars, we decide to use the model trained pretrained using stanford cars dataset as our model for experiment.
+As stanford cars dataset contains cars, we decided to use the model pretrained using stanford cars dataset, as our model for experiments.
 
 ### KNeighbours
 
@@ -113,7 +113,7 @@ This gives same result as k=333.
 
 ### Submission
 
-We submit two results i.e. k=333 from KNeighbours and k=300 from Annoy were submitted. This is the result we obtain using the [evaluation server](https://eval.aicitychallenge.org) of Nvidia Challenge.
+We made two submissions to Track 2 of AI City Challenge. One was with k=333 using KNeighbours and the other with k=300 using Annoy . Below are the results from the [evaluation server](https://eval.aicitychallenge.org) of Nvidia Challenge.
 
 
 ![sub0](row.png)
@@ -142,7 +142,7 @@ Rank 71, Good?
 
 Next Steps,
 
-Classifier models give good embeddings, clustering and getting top 100 test images gave okayish results.
+Classifier models gave good embeddings. By clustering the embeddings, we got top 100 matches for each query image from the test set. Our idea was to try the embeddings from a classification model and see if the obtained results can be used for Vehicle Re-Identification. Though we got decent results, as a next step we will be trying Siamese networks.
 
 Siamese Network will yield impressive results as they are specifically designed to handle comparison of input images. Experiment with different loss functions like ArcFace, ArcMargin Loss, etc. Also, different batch sampling like Batch Hard (BH), Batch Sample (BS), Batch Weight(BW) and Batch All(BA).
 
@@ -153,7 +153,11 @@ Siamese Network will yield impressive results as they are specifically designed 
 
 1. [CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification](https://arxiv.org/pdf/1903.09254)
 
-2. 
+2. [Person Re-Identification in Identity Regression Space](https://arxiv.org/pdf/1806.09695.pdf)
+
+3. [Attention Driven Person Re-identification](https://arxiv.org/pdf/1810.05866.pdf)
+
+
 
 ---
 
