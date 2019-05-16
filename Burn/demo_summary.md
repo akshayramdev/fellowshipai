@@ -27,13 +27,25 @@ images of unburned skin and first, second, and third degree burns.
 
 Using platform.ai, we used these images to train an image
 [classifier](https://platform.ai/app/imageTraining/projects/ahJzfnBsYXRmb3JtLWFpLXByb2RyUwsSBFVzZXIiHEZUSXdNOThIazVlT2Q0ajJnWFpQRGV5WG42dTEMCxIHUHJvamVjdCIgMzIxZDVhNzA3OGExNDNiOWFkYmY1NmJiYTI2NDc5NWIM)
-to over 80% accuracy, measured on a randomly-selected hold out validation
-set.  Because our model relies on image labels from non-burn experts
-(i.e. us), we can reasonably expect our labeling accuracy to be less
-than 80%, implying that the human labelers in this training pipeline
-are a major source of inaccuracy in the resulting model.  However,
-as medical professionals who are not burn experts classify burn depth
-correctly only 60-80% of the time, our result hints at the potential for
-a significant improvement over standard practices, even within medical
-settings.  A future model trained on expertly-labeled images may well
-surpass human-level performance on burn identification.
+to over 80% accuracy, measured on a randomly-selected hold out
+validation set.  In tandem, we also trained several image classifiers
+using the fastai library.  Comparing several different architectures,
+we found that the one that gave the best overall accuracy on our dataset
+was DenseNet-161.  In addition to the default set of data augmentation
+functions suggested by fastai, we also included vertical flips of
+the images, and added [mixup](https://arxiv.org/abs/1710.09412).
+Combined with test-time augmentation, our fastai
+[classifier](https://github.com/fellowship/platform-demos3/blob/master/Burn/burn2.ipynb)
+reached >94% accuracy.
+
+Because both our models rely on image labels from non-burn experts
+(i.e. us, or a previous group of machine learning fellows), we can
+reasonably expect our labeling accuracy to be less than 80%, implying
+that the human labelers in this training pipeline are a major source of
+inaccuracy in the resulting model.  However, as medical professionals
+who are not burn experts classify burn depth correctly only 60-80% of the
+time, our result hints at the potential for a significant improvement over
+standard practices, even within medical settings.  A future model trained
+on expertly-labeled images may well surpass human-level performance on
+burn identification.
+
