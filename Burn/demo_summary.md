@@ -22,7 +22,7 @@ can be used in situations where a burn expert is unavailable, such as
 low-resource environments or by first responders in crisis situations.
 Working in collaboration with a burn specialist, we anticipate having
 access to a sizable collection of high-quality, expertly-labeled training
-data.  As a preliminary step, we are using a web-scraped dataset of 784
+data.  As a preliminary step, we are using a web-scraped dataset of 742
 images of unburned skin and first, second, and third degree burns.
 
 Using platform.ai, we used these images to train an image
