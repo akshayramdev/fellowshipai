@@ -6,7 +6,7 @@ For the purpose of labelling, we run prediction using pre-trained model on set o
 
 Additionally, we use annoy to label data. This is done by finding similar images from unlabelled sample for a given sample of train images. We then use the label of train image in order to label test images.
 
-The train data was laballed from one batch and for validation we use data from another batch. This way, We were able to gather 3000 labelled images. We have trained model on top of pretrained model of previous cohort. With this, we could reach ~80% accuracy.
+The train data was laballed from one batch and for validation we use data from another batch. This way, We were able to gather 3500 labelled images. We have trained model on top of pretrained model of previous cohort. With this, we could reach ~85% accuracy.
 
 **Additional Work:**
 
