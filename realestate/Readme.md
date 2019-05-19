@@ -11,5 +11,6 @@ The train data was laballed from one batch and for validation we use data from a
 **Additional Work:**
 
 Increase Label Data size
+
 Perform Data Augmentation
 
