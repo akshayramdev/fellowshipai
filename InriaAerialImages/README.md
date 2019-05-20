@@ -9,6 +9,8 @@ Pallavi Allada, Jhansi Anumula, Zoheb Abai
 ## Dataset
 The dataset includes urban settlements over the United States and Austria, and is labeled into building and not building classes. Contrary to all previous datasets, the training and test sets are split by city instead of excluding random pixels or tiles. 
 
+![Images with their reference](https://github.com/fellowship/platform-demos3/blob/master/InriaAerialImages/Dataset%20images%20with%20reference.png)
+
 |Train| Tiles | Test | Tiles|
 |:------|:----|-----:|-----:|
 |Austin, TX | 36 |Bellingham, WA |36|
