@@ -36,8 +36,8 @@ Two approaches are implemented to preprocess the image files due to large size o
 Once we have the preprocessed data, we apply few image augmentations, import pretrained resnet-18 model as encoder and train the UNet model. We use two evaluation metrics to assess the performance of our model on the dataset. First, the accuracy,
 which is defined as the percentage of correctly classified pixels. Secondly, the intersection over union (IoU) of the positive (building) class, which is defined as the number of pixels labeled as building in both the prediction and the reference, divided by the number of pixels labeled as building in the prediction or the reference IOU and accuracy. For training the model we define a combined loss function which is summation of Dice-coefficient loss function and Crossentropy loss function.
 
-#### 1. Resized to 512 and Resnet-34 as encoder
+#### Approach 1 : Resized to 512 and Resnet-34 as encoder
 Our model got max accuracy of 95% but IOU of 50%, which did not cross the baseline model of INRIA mentioned here. It might be due to huge information loss while resizing the images.
 
-#### 2. Sliding Window Patches of size 250 and Resnet-18 as encoder
+#### Approach 2 : Sliding Window Patches of size 250 and Resnet-18 as encoder
 Our model got max accuracy of 96% and IOU of 86%. We are submitting this model for the challenge as of 20th May 2019.
