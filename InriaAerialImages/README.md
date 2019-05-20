@@ -1,5 +1,6 @@
 # Automatic Pixelwise Labelling of Aerial Imagery
 Based on [Inria Aerial Image Labeling Contest](https://project.inria.fr/aerialimagelabeling/contest/)
+
 For Benchmark results of Inria Challenge read the [article](https://hal.inria.fr/hal-01468452/document)
 
 ## Team members
