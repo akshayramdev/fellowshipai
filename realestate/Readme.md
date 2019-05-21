@@ -4,7 +4,7 @@ The task is to build a classification model which can initially classify the roo
 
 ## Dataset
 
-We use the unlabelled dataset collected by previous cohort by crawling redfin website. The data is stored in terms of 19 batch wise folders, where each folder containes 1000 listings and each listing contains ~20 room images.
+We use the unlabelled dataset collected by previous cohort by crawling redfin website. The data is stored in terms of 19 batch wise folders, where each folder containes 1000 listings and each listing contains ~20 room images. We choose one batch of images ~ 20000 images, move them single folder and shuffle for variation in training
 
 ## Approach
 
