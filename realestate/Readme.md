@@ -16,7 +16,7 @@ We use the unlabelled dataset collected by previous cohort by crawling redfin we
 ## Current Result
 
 Presently, we were able to gather ~4500 labelled images. The train data is from one batch and for validation we use images from another batch. We have trained fasti.ai model on top of *realestate-classification-rn50* pre-trained model. With this, we get **~89% accuracy**.
-Additionally, training fast.ai model using densenet121 gave an improvement over the accuracy to **90.1%**
+Additionally, training fast.ai model using densenet121 gave an improvement in the accuracy upto **90.1%**
 
 ## Additional work
 
