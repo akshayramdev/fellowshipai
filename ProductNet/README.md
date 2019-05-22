@@ -30,3 +30,7 @@ This is large, make sense to use a subset in the beginning. Go deep or go broad?
    2. Scrape online retailers websites - must have description and images.
 
 3. Modeling
+
+## Update (5/22/2019): Demo on platform.ai
+
+We selected 10 random classes, with approximately 780 images in total and tried running on platform.ai. The accuracy on the [platform](https://platform.ai/app/imageTraining/projects/ahJzfnBsYXRmb3JtLWFpLXByb2RyUwsSBFVzZXIiHFlpdzFaS3hTNEtRNFM4cEh0Mkt0eUc3ZnZwRTIMCxIHUHJvamVjdCIgYzM5NzE1MGYzNmI0NGUwOGEwNzgxYzc5ZTBlMWUzN2IM) is 78%. Our [latest model](https://github.com/fellowship/platform-demos3/blob/master/ProductNet/workbook_resnet34_images777_classes10.ipynb) managed to achieve an accuracy of 87%. We have been using fast.ai's default with ResNet 34 as the architecture.
