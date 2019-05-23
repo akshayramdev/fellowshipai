@@ -9,7 +9,7 @@ We use the unlabelled dataset collected by previous cohort by crawling redfin we
 ## Approach
 
 1) we first labeled ~4K images through platform.ai and trained them through platform.  
-- Most of other classes are easily identifiable except *Interior*. We label *Interior rooms as the ones which have features such as - attic, washer_dryer room, study tables, clothes, children room, staircases, entrances, foyers,etc. In cases where images have no furnitures, we choose interior as one which is not visually identifiable into other categories, like cross-section images of multiple room types, a small balcony, images with sloped ceiling, etc.
+- Most of other classes are easily identifiable except *Interior*. We label *Interior* rooms as the ones which have features such as - attic, washer_dryer room, study tables, clothes, children room, staircases, entrances, foyers,etc. In cases where images have no furnitures, we choose interior as one which is not visually identifiable into other categories, like cross-section images of multiple room types, a small balcony, images with sloped ceiling, etc.
 2) We build fast.ai based model using densenet121 architecture. We used transfer learning approach and trained similar ~4K images obtained from platform. We also experimented on different resnet architectures.Additionally, we also implemented data augmentation
 
 ## Current Result
