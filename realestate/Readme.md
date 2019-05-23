@@ -1,6 +1,6 @@
 # Real Estate Rooms Classification
 
-The task is to build a classification model which can initially classify the room images into 7 base classes - kitchen, bathroom, bedroom, dining_room, living_room, Exterior and Interior. As next step, the goal is to automatically tag these images with further rich attributes within each class. For e.g Kitchen: appliances, kitchen_island, Interior: Laundry Room, basement, attic, etc, Living Room: fireplace, TV, etc.  
+The task is to build a classification model which can initially classify the room images into 7 base classes - kitchen, bathroom, bedroom, dining_room, living_room, Exterior and Interior. As next step, the goal is to automatically tag these images with rich attributes for each room image. For e.g Kitchen: appliances, kitchen_island, Interior: Laundry Room, basement, attic, etc, Living Room: fireplace, TV, etc.  
 
 ## Dataset
 
@@ -14,8 +14,8 @@ We use the unlabelled dataset collected by previous cohort by crawling redfin we
 
 ## Current Result
 
-- Platform ai model gave us an accuracy of 82%.
-- Our fast.ai based model resulted in 88% accuracy
+- Platform ai model gave us an accuracy of ~87%.
+- Our fast.ai based model resulted in ~92% accuracy
 
 ## Additional work
 
