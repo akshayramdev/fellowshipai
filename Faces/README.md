@@ -3,6 +3,10 @@
 ### Team Member
 Harvey Nguyen, Geoffrey Harrazi, Kien Vu
 
+### Platform.ai model
+[Link to model on platform.ai - archived 95% accuracy with three classes: 000289, 000141, 000218](https://platform.ai/app/imageTraining/projects/ahJzfnBsYXRmb3JtLWFpLXByb2RyUwsSBFVzZXIiHE5XSmc0dE1obnZQdnFKUlk1eGoyNmNVUFI1SjIMCxIHUHJvamVjdCIgMTIzYTMwZWFkMzdhNDE2ZWI0N2ZkOGM2YmY0MTNhMDIM
+) 
+
 ## The Project
 
 [Addictive Angular Loss Margin (ArcFace) paper](https://arxiv.org/abs/1801.07698)
