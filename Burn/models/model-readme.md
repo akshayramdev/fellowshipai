@@ -2,7 +2,7 @@
 ## Hyperparamters and Model Selection Experiments Summary
 
 
-* These results have been obetained with num_epoch=5 and we also observe that the results may change with more num_epoch during training for instance resnet-152 being the most accurate among resnet models when training with num_epoch = 50. 
+* These results have been obtained with num_epoch = 5 and we also observe that the results may change with more num_epoch during training. For instance, resnet-152 becomes the most accurate among resnet models when training with num_epoch = 50 which may not be practical however. 
 
 
 ![Accuracy vs Batch Size](https://github.com/fellowship/platform-demos3/blob/master/Burn/models/bs.png)
