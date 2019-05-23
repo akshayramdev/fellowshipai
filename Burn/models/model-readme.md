@@ -7,7 +7,7 @@
 
 ![Accuracy vs Batch Size](https://github.com/fellowship/platform-demos3/blob/master/Burn/models/bs.png)
 
-Fig.1: Note that optimal batch size is also dpendent on the learning rate(please refer to burn_hp_models.ipynb).
+Fig.1: Note that optimal batch size is also dpendent on the learning [rate](https://miguel-data-sc.github.io/2017-11-05-first).
 
 
 ![Accuracy vs Image Size](https://github.com/fellowship/platform-demos3/blob/master/Burn/models/im-sz.png)
