@@ -14,8 +14,8 @@ We use the unlabelled dataset collected by previous cohort by crawling redfin we
 
 ## Current Result
 
-- Platform ai model gave us an accuracy of 82%.
-- Our fast.ai based model resulted in 88% accuracy
+- Platform ai model gave us an accuracy of ~87%.
+- Our fast.ai based model resulted in ~92% accuracy
 
 ## Additional work
 
