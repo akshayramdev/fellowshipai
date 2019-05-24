@@ -52,3 +52,5 @@ Since the dataset is large (over 39 GB), a subset of the dataset is extracted to
 A recent paper, one call [Adacos](https://arxiv.org/abs/1905.00292)
 It is most recent SoTA method regarding cosine loss family (cosface, arcface).
 It surpass arcface result and achive current SoTA accuracy. 
+
+[Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a.html)
