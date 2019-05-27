@@ -1,0 +1,2351 @@
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,V-shape,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,Short sleeve,Round,Dress,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,V-shape,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Folded,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Red,Long sleeve,Round,T-shirt,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Sweater,One layer
+Graphics,Pink,Short sleeve,V-shape,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Floral,White,Short sleeve,Round,Dress,One layer
+Graphics,White,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Red,Long sleeve,V-shape,Dress,One layer
+Solid,Gray,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Graphics,Yellow,Short sleeve,Round,T-shirt,One layer
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,Gray,Long sleeve,Round,Sweater,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Gray,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Red,Long sleeve,Folded,Dress,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Green,No sleeve,Round,Dress,One layer
+Solid,Red,Long sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Green,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Plaid,More than 1 color,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,White,No sleeve,Round,Tank top,One layer
+Floral,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Red,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Gray,Long sleeve,Round,Outerwear,One layer
+Striped,Pink,Short sleeve,Round,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Pink,Long sleeve,Folded,Shirt,One layer
+Solid,Red,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Pink,No sleeve,V-shape,Dress,One layer
+Floral,More than 1 color,Long sleeve,V-shape,Dress,Multiple layers
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Red,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Striped,Blue,No sleeve,Round,Dress,One layer
+Solid,Red,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Graphics,More than 1 color,Long sleeve,V-shape,Dress,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Yellow,Short sleeve,Folded,Shirt,One layer
+Graphics,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Graphics,Gray,No sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Red,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Short sleeve,Folded,Dress,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Floral,Black,No sleeve,Round,Dress,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Graphics,Black,Long sleeve,V-shape,T-shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,More than 1 color,Long sleeve,Round,Dress,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Graphics,Red,Short sleeve,Folded,T-shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,Shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Green,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Red,Long sleeve,Folded,Outerwear,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Graphics,Gray,Short sleeve,Round,T-shirt,One layer
+Striped,More than 1 color,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Green,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Blue,Long sleeve,Folded,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,No sleeve,Round,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Folded,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Striped,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Green,Long sleeve,Round,T-shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,Multiple layers
+Solid,Gray,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,Red,Short sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Gray,Short sleeve,V-shape,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Graphics,Gray,Short sleeve,Folded,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Yellow,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Gray,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Brown,Long sleeve,Folded,Outerwear,One layer
+Solid,Blue,Long sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,Red,Short sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,Outerwear,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Red,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,Red,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Red,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Pink,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Striped,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Gray,Short sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Floral,Pink,No sleeve,Round,Dress,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Graphics,Green,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Round,Shirt,One layer
+Solid,White,No sleeve,Round,T-shirt,One layer
+Solid,Gray,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,No sleeve,V-shape,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,One layer
+Graphics,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,Red,No sleeve,V-shape,Dress,One layer
+Striped,Blue,Short sleeve,Folded,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Floral,Red,Long sleeve,Folded,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Yellow,No sleeve,Round,Dress,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,Green,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Red,Short sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Graphics,White,Long sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Gray,Short sleeve,V-shape,T-shirt,One layer
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Green,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Striped,White,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Short sleeve,V-shape,Shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,V-shape,T-shirt,One layer
+Striped,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,Pink,No sleeve,Round,Dress,One layer
+Solid,Orange,Short sleeve,Folded,Shirt,One layer
+Solid,Green,Long sleeve,Round,T-shirt,One layer
+Graphics,Yellow,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Pink,Long sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Striped,More than 1 color,Long sleeve,Round,Sweater,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Gray,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,No sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,No sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Yellow,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Long sleeve,Round,Outerwear,One layer
+Graphics,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,Multiple layers
+Solid,Gray,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,T-shirt,One layer
+Solid,Brown,Long sleeve,Folded,Dress,One layer
+Solid,Red,Long sleeve,Round,T-shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,V-shape,Dress,One layer
+Graphics,Red,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Red,No sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Dress,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,Green,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,Multiple layers
+Solid,White,Long sleeve,Round,Shirt,One layer
+Striped,More than 1 color,Long sleeve,Round,T-shirt,One layer
+Solid,Gray,Long sleeve,Folded,Outerwear,One layer
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Pink,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Floral,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,V-shape,Shirt,One layer
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Striped,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Blue,Long sleeve,Folded,Suit,Multiple layers
+Graphics,Red,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,V-shape,Dress,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Graphics,Red,Long sleeve,Round,T-shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Round,Outerwear,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,V-shape,Shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Shirt,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Blue,Long sleeve,Round,T-shirt,One layer
+Solid,Red,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Graphics,More than 1 color,Long sleeve,Round,Shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Long sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Red,Short sleeve,Round,T-shirt,One layer
+Solid,Yellow,Short sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,Short sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,Multiple layers
+Graphics,Yellow,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,V-shape,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,V-shape,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Pink,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Yellow,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Yellow,Long sleeve,Folded,Shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Suit,Multiple layers
+Solid,Red,Short sleeve,Folded,T-shirt,One layer
+Striped,More than 1 color,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Red,No sleeve,Folded,Shirt,One layer
+Graphics,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Dress,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Graphics,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,No sleeve,Round,Tank top,One layer
+Solid,White,No sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,V-shape,Tank top,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,Pink,No sleeve,Round,Dress,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Gray,Long sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Striped,More than 1 color,Short sleeve,V-shape,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Floral,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Striped,More than 1 color,Short sleeve,Round,Dress,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Striped,More than 1 color,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Folded,Suit,Multiple layers
+Solid,Red,Long sleeve,Round,Outerwear,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,V-shape,Dress,One layer
+Solid,Red,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Shirt,One layer
+Striped,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Green,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Outerwear,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Floral,More than 1 color,No sleeve,V-shape,Dress,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Plaid,Red,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Red,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Plaid,More than 1 color,Long sleeve,V-shape,Shirt,One layer
+Graphics,Blue,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Short sleeve,V-shape,T-shirt,One layer
+Solid,White,Long sleeve,V-shape,Dress,One layer
+Graphics,Red,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Round,Dress,One layer
+Solid,Pink,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,One layer
+Graphics,Red,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,V-shape,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Floral,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Graphics,Gray,Short sleeve,Folded,T-shirt,One layer
+Striped,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Green,Short sleeve,Folded,Shirt,One layer
+Graphics,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Brown,Long sleeve,Round,Dress,One layer
+Floral,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Short sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,Shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Red,Short sleeve,V-shape,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,Outerwear,One layer
+Graphics,White,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Short sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Round,Outerwear,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,V-shape,Tank top,One layer
+Solid,Black,Short sleeve,Folded,T-shirt,One layer
+Graphics,Green,Short sleeve,V-shape,T-shirt,One layer
+Solid,Red,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Pink,No sleeve,Round,Dress,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,V-shape,Shirt,One layer
+Solid,Gray,Long sleeve,Round,Sweater,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Long sleeve,Folded,Dress,One layer
+Floral,More than 1 color,Short sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Folded,T-shirt,One layer
+Solid,Gray,Short sleeve,Folded,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,V-shape,T-shirt,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Graphics,Black,Short sleeve,V-shape,T-shirt,One layer
+Graphics,Green,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Gray,Long sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,Multiple layers
+Graphics,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,V-shape,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Floral,More than 1 color,No sleeve,Folded,Shirt,One layer
+Graphics,Red,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Yellow,Short sleeve,Round,T-shirt,One layer
+Solid,Red,Long sleeve,Folded,Shirt,Multiple layers
+Floral,More than 1 color,Short sleeve,Round,Dress,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Shirt,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Dress,One layer
+Graphics,Pink,Short sleeve,Round,Dress,One layer
+Solid,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Red,Long sleeve,Round,Outerwear,One layer
+Graphics,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Striped,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Folded,Outerwear,One layer
+Graphics,More than 1 color,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,No sleeve,V-shape,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Red,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Green,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Short sleeve,V-shape,Shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Pink,Short sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,Short sleeve,V-shape,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Green,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Pink,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Striped,White,Short sleeve,Round,T-shirt,One layer
+Solid,Pink,No sleeve,Folded,Dress,One layer
+Solid,Gray,Short sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Gray,No sleeve,Round,T-shirt,One layer
+Solid,Gray,No sleeve,Round,Dress,One layer
+Solid,Pink,Short sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Folded,Suit,Multiple layers
+Solid,Red,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Red,Long sleeve,Round,Sweater,One layer
+Graphics,White,No sleeve,Round,Tank top,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Graphics,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,White,Short sleeve,Round,Tank top,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Short sleeve,V-shape,T-shirt,One layer
+Solid,Green,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,More than 1 color,Long sleeve,Round,Dress,One layer
+Graphics,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,Short sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Floral,White,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Plaid,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Yellow,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,Multiple layers
+Graphics,More than 1 color,Long sleeve,Round,T-shirt,One layer
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Striped,More than 1 color,Long sleeve,Round,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Brown,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,Multiple layers
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Striped,More than 1 color,Long sleeve,Round,Shirt,One layer
+Graphics,Black,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Red,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,White,Long sleeve,Folded,Outerwear,One layer
+Striped,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Floral,White,No sleeve,Round,Dress,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Yellow,Short sleeve,Round,T-shirt,One layer
+Solid,Green,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Yellow,No sleeve,Folded,Dress,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Red,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Yellow,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Folded,T-shirt,One layer
+Solid,Yellow,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,Dress,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Red,Long sleeve,Round,Dress,One layer
+Solid,Yellow,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,Multiple layers
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Striped,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Striped,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Floral,Black,No sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Shirt,Multiple layers
+Solid,White,Short sleeve,Round,Shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Graphics,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,Shirt,One layer
+Floral,White,Short sleeve,Round,Dress,One layer
+Graphics,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Striped,More than 1 color,Long sleeve,Folded,Suit,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Red,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Graphics,White,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Graphics,Black,No sleeve,Round,Tank top,One layer
+Graphics,Blue,Short sleeve,Folded,T-shirt,One layer
+Solid,Gray,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Short sleeve,V-shape,T-shirt,One layer
+Solid,Pink,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Pink,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Red,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Graphics,More than 1 color,Long sleeve,Round,Shirt,One layer
+Solid,Blue,No sleeve,V-shape,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Red,Long sleeve,Round,Outerwear,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Shirt,One layer
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Shirt,One layer
+Floral,More than 1 color,Short sleeve,Round,Dress,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Yellow,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,Blue,No sleeve,Round,Dress,One layer
+Floral,More than 1 color,Short sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Pink,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,No sleeve,Round,Tank top,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Striped,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Yellow,Short sleeve,Folded,Shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Graphics,More than 1 color,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,V-shape,Dress,One layer
+Solid,White,Long sleeve,Folded,Dress,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Sweater,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Blue,No sleeve,Round,Dress,One layer
+Solid,Pink,Long sleeve,Round,Dress,One layer
+Graphics,Pink,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,V-shape,Dress,One layer
+Solid,Gray,Long sleeve,Round,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,Black,No sleeve,Round,Dress,One layer
+Striped,White,Short sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Gray,Long sleeve,Folded,Shirt,Multiple layers
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Green,Long sleeve,Folded,Shirt,One layer
+Solid,Yellow,No sleeve,Round,Dress,One layer
+Solid,More than 1 color,Long sleeve,Round,Shirt,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,Multiple layers
+Graphics,Red,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Shirt,Multiple layers
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Graphics,Yellow,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,White,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Round,T-shirt,Multiple layers
+Graphics,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Red,No sleeve,V-shape,Dress,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,Multiple layers
+Solid,White,No sleeve,Round,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Pink,Long sleeve,Round,Shirt,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Red,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Red,Long sleeve,Folded,Shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Shirt,One layer
+Plaid,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,Yellow,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Red,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,V-shape,T-shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Gray,Long sleeve,Folded,Outerwear,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Graphics,White,No sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Red,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,More than 1 color,Long sleeve,Round,T-shirt,Multiple layers
+Solid,Red,Short sleeve,Round,Dress,One layer
+Solid,Brown,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Pink,No sleeve,V-shape,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Gray,Long sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Striped,More than 1 color,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,V-shape,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,Shirt,One layer
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,Black,No sleeve,V-shape,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,Pink,Long sleeve,Folded,Shirt,One layer
+Graphics,White,Long sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,Dress,One layer
+Striped,More than 1 color,No sleeve,V-shape,Shirt,One layer
+Graphics,White,Long sleeve,Round,T-shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,V-shape,Dress,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Dress,Multiple layers
+Floral,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,More than 1 color,Long sleeve,V-shape,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Striped,Pink,Short sleeve,Round,T-shirt,One layer
+Striped,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Graphics,White,Long sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Gray,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Round,Sweater,One layer
+Solid,Green,Short sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Short sleeve,Folded,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Graphics,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Floral,Blue,No sleeve,Round,Dress,One layer
+Floral,More than 1 color,No sleeve,Round,Tank top,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,V-shape,Shirt,Multiple layers
+Solid,Black,Long sleeve,V-shape,Shirt,Multiple layers
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,Brown,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,V-shape,Shirt,One layer
+Solid,Black,Long sleeve,V-shape,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Graphics,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,More than 1 color,Long sleeve,Folded,Dress,Multiple layers
+Solid,Pink,Long sleeve,Round,Dress,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,No sleeve,V-shape,Tank top,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Green,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Red,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Yellow,No sleeve,V-shape,Dress,One layer
+Solid,More than 1 color,No sleeve,Folded,Dress,One layer
+Solid,Yellow,No sleeve,Folded,Dress,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Short sleeve,V-shape,Dress,One layer
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,Yellow,Short sleeve,Round,T-shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,Multiple layers
+Solid,White,No sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Graphics,More than 1 color,No sleeve,Round,Dress,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Gray,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Folded,Outerwear,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Folded,Dress,One layer
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Gray,Short sleeve,V-shape,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Striped,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Green,Short sleeve,Folded,T-shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Short sleeve,V-shape,Dress,One layer
+Solid,Black,Short sleeve,V-shape,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Red,Short sleeve,Folded,T-shirt,One layer
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Orange,Long sleeve,V-shape,Shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,T-shirt,One layer
+Graphics,Red,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,No sleeve,Folded,Dress,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Round,T-shirt,Multiple layers
+Striped,White,Short sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Pink,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,No sleeve,Round,Tank top,One layer
+Solid,Blue,Long sleeve,V-shape,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Plaid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,No sleeve,Round,Tank top,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Red,Short sleeve,Round,T-shirt,One layer
+Striped,More than 1 color,No sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,White,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Green,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,V-shape,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Striped,White,Short sleeve,Round,T-shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Pink,Long sleeve,Round,Dress,One layer
+Solid,White,No sleeve,V-shape,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,Dress,One layer
+Graphics,Gray,Long sleeve,Round,T-shirt,One layer
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Gray,Long sleeve,Round,T-shirt,One layer
+Graphics,More than 1 color,Short sleeve,Folded,T-shirt,One layer
+Plaid,Green,Short sleeve,Round,Shirt,One layer
+Floral,Black,Long sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Gray,No sleeve,V-shape,Dress,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,T-shirt,One layer
+Striped,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Long sleeve,V-shape,Dress,One layer
+Solid,White,Short sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Red,Long sleeve,V-shape,Dress,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Pink,No sleeve,V-shape,Dress,One layer
+Solid,Pink,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Gray,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Graphics,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,No sleeve,Folded,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Short sleeve,V-shape,T-shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,More than 1 color,Long sleeve,Round,T-shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,Dress,One layer
+Solid,Pink,Long sleeve,Folded,Shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,White,No sleeve,Round,Tank top,One layer
+Solid,Green,No sleeve,Round,Dress,One layer
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,Multiple layers
+Graphics,White,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Gray,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Round,T-shirt,One layer
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Graphics,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,V-shape,Tank top,One layer
+Solid,Pink,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Graphics,More than 1 color,Long sleeve,Round,Dress,One layer
+Graphics,Red,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Red,Long sleeve,Folded,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Gray,Short sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Red,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Graphics,Gray,Long sleeve,Round,Outerwear,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Striped,More than 1 color,Long sleeve,Round,Shirt,One layer
+Graphics,White,No sleeve,Round,Tank top,One layer
+Solid,Red,Long sleeve,Round,T-shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Yellow,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Striped,More than 1 color,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Brown,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,No sleeve,Folded,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Floral,Pink,Long sleeve,Round,Dress,One layer
+Graphics,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Yellow,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Round,Outerwear,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,Green,Short sleeve,V-shape,T-shirt,One layer
+Solid,Red,Short sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Round,Sweater,One layer
+Solid,White,Long sleeve,Folded,Suit,Multiple layers
+Graphics,Yellow,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,Multiple layers
+Striped,More than 1 color,Short sleeve,Folded,T-shirt,One layer
+Striped,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,V-shape,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,More than 1 color,Long sleeve,V-shape,Dress,One layer
+Graphics,Blue,Long sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Pink,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Striped,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,No sleeve,Folded,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Brown,Long sleeve,Round,T-shirt,One layer
+Graphics,Black,No sleeve,Round,Tank top,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Green,Long sleeve,Folded,Outerwear,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Round,Outerwear,One layer
+Graphics,White,Long sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Brown,Long sleeve,Round,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Plaid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Red,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Graphics,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Graphics,Blue,Long sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Striped,Blue,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,T-shirt,One layer
+Striped,Red,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Blue,Short sleeve,V-shape,T-shirt,One layer
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Short sleeve,V-shape,T-shirt,One layer
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Pink,Long sleeve,Round,Dress,One layer
+Solid,Pink,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Orange,No sleeve,V-shape,Dress,One layer
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Plaid,More than 1 color,Long sleeve,Round,Shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Striped,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Brown,No sleeve,Round,Outerwear,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Graphics,Pink,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Outerwear,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Plaid,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,Red,Long sleeve,Round,Dress,One layer
+Floral,Green,Short sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,Yellow,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Shirt,Multiple layers
+Solid,Black,No sleeve,Round,T-shirt,One layer
+Striped,More than 1 color,Short sleeve,Folded,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Pink,No sleeve,Round,Dress,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,No sleeve,Round,Tank top,One layer
+Solid,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,Outerwear,Multiple layers
+Striped,More than 1 color,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,Shirt,One layer
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Suit,Multiple layers
+Solid,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,V-shape,Outerwear,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Red,Long sleeve,Round,Dress,Multiple layers
+Solid,White,Long sleeve,Round,Outerwear,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,More than 1 color,Short sleeve,V-shape,Dress,One layer
+Graphics,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Plaid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Graphics,Blue,Long sleeve,Round,T-shirt,Multiple layers
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Floral,White,Long sleeve,Round,Dress,One layer
+Solid,Pink,No sleeve,Round,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Folded,T-shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,Multiple layers
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Graphics,Red,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Pink,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,V-shape,T-shirt,One layer
+Graphics,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,No sleeve,Round,T-shirt,One layer
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Red,Long sleeve,Round,Outerwear,Multiple layers
+Striped,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,V-shape,Dress,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,V-shape,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Red,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Striped,White,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Floral,White,Long sleeve,Round,Dress,Multiple layers
+Spotted,More than 1 color,Long sleeve,Round,Dress,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,Short sleeve,Round,Shirt,One layer
+Solid,Black,No sleeve,Folded,Dress,One layer
+Graphics,More than 1 color,Long sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Shirt,One layer
+Solid,Pink,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Graphics,Red,Long sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Folded,T-shirt,One layer
+Solid,Pink,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Green,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Folded,T-shirt,One layer
+Striped,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,More than 1 color,No sleeve,Round,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Suit,Multiple layers
+Solid,Red,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,Multiple layers
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Pink,Long sleeve,V-shape,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,No sleeve,V-shape,Dress,One layer
+Solid,Blue,Long sleeve,Round,Dress,One layer
+Graphics,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Blue,Long sleeve,Folded,Suit,Multiple layers
+Plaid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Short sleeve,V-shape,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Plaid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Graphics,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Green,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Striped,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Floral,More than 1 color,No sleeve,Round,Tank top,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Red,Short sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,Black,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Pink,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Gray,Long sleeve,Folded,Sweater,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Graphics,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,White,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Green,Long sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Dress,One layer
+Graphics,Blue,Short sleeve,Folded,T-shirt,One layer
+Solid,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Graphics,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Gray,Short sleeve,V-shape,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,One layer
+Graphics,Black,No sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,Dress,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,No sleeve,Round,Tank top,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Graphics,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Red,Short sleeve,Folded,Shirt,One layer
+Graphics,Red,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,One layer
+Graphics,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Round,Outerwear,Multiple layers
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Floral,Blue,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Striped,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Round,T-shirt,One layer
+Graphics,White,Long sleeve,Round,T-shirt,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Green,Short sleeve,Folded,Shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,V-shape,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Folded,T-shirt,One layer
+Solid,White,Long sleeve,V-shape,Shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Plaid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,No sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Gray,Long sleeve,Round,Dress,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Red,Short sleeve,Folded,T-shirt,One layer
+Graphics,White,Long sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Round,T-shirt,One layer
+Solid,Green,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Yellow,Long sleeve,Folded,Shirt,Multiple layers
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Dress,One layer
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Yellow,Long sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Graphics,Red,Long sleeve,Folded,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,V-shape,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Graphics,Black,Long sleeve,Round,Outerwear,Multiple layers
+Striped,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Pink,Long sleeve,Folded,Shirt,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Gray,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Graphics,Gray,Short sleeve,Round,T-shirt,One layer
+Graphics,Yellow,Short sleeve,Folded,Shirt,One layer
+Solid,Red,Short sleeve,Round,T-shirt,One layer
+Floral,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Shirt,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,Black,Short sleeve,V-shape,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Plaid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,Blue,Short sleeve,V-shape,T-shirt,One layer
+Graphics,White,No sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Outerwear,One layer
+Graphics,Green,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Pink,Long sleeve,Round,Dress,One layer
+Solid,White,No sleeve,Round,Shirt,One layer
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Floral,Blue,Short sleeve,Folded,Shirt,One layer
+Solid,White,No sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Graphics,White,No sleeve,V-shape,Tank top,One layer
+Graphics,Yellow,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Spotted,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Striped,More than 1 color,Long sleeve,Round,Tank top,Multiple layers
+Solid,White,Short sleeve,V-shape,T-shirt,One layer
+Graphics,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Yellow,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Striped,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Suit,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,Outerwear,Multiple layers
+Graphics,White,No sleeve,Round,Tank top,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,No sleeve,V-shape,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Green,Long sleeve,Round,Outerwear,One layer
+Solid,Gray,Long sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Round,Outerwear,One layer
+Graphics,White,Long sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Green,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Pink,Short sleeve,V-shape,Dress,One layer
+Solid,Red,Long sleeve,Round,Sweater,One layer
+Solid,Red,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Round,Outerwear,Multiple layers
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,Blue,No sleeve,Round,Tank top,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Green,Long sleeve,Round,Outerwear,One layer
+Solid,Pink,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Gray,Long sleeve,Round,Sweater,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Blue,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Graphics,Red,Long sleeve,Folded,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Gray,Long sleeve,Folded,Sweater,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Brown,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,V-shape,T-shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Black,No sleeve,Folded,Dress,One layer
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,Gray,Long sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,V-shape,Tank top,One layer
+Solid,Red,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Striped,More than 1 color,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Dress,One layer
+Striped,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,Green,No sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Red,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,More than 1 color,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Shirt,One layer
+Striped,More than 1 color,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Graphics,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Plaid,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Graphics,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Red,Long sleeve,Folded,Outerwear,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,V-shape,Dress,One layer
+Floral,White,No sleeve,Round,Dress,One layer
+Graphics,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Pink,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Striped,More than 1 color,Long sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,V-shape,Tank top,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,More than 1 color,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Striped,More than 1 color,Long sleeve,Round,Shirt,One layer
+Solid,Blue,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,No sleeve,V-shape,Dress,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Folded,T-shirt,One layer
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Graphics,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Tank top,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Long sleeve,Folded,Outerwear,One layer
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Blue,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Short sleeve,Folded,Shirt,One layer
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,V-shape,T-shirt,One layer
+Solid,Blue,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Folded,Shirt,One layer
+Striped,More than 1 color,Short sleeve,Folded,Shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Short sleeve,V-shape,T-shirt,One layer
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,More than 1 color,Long sleeve,Folded,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Red,Long sleeve,Round,Dress,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Red,Long sleeve,Round,Dress,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Tank top,One layer
+Graphics,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Striped,Black,Short sleeve,Folded,T-shirt,One layer
+Solid,More than 1 color,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,No sleeve,Round,Tank top,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Brown,Short sleeve,Folded,T-shirt,One layer
+Graphics,More than 1 color,Short sleeve,Round,Dress,One layer
+Graphics,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Folded,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Striped,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Solid,Red,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Yellow,Short sleeve,Folded,Shirt,One layer
+Solid,Gray,Long sleeve,Round,Sweater,One layer
+Solid,Black,Long sleeve,Round,Outerwear,One layer
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Short sleeve,Round,Shirt,One layer
+Graphics,White,Short sleeve,Round,T-shirt,One layer
+Solid,Black,Long sleeve,Round,Outerwear,Multiple layers
+Solid,Blue,Short sleeve,Round,T-shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,White,Long sleeve,Round,T-shirt,One layer
+Graphics,Blue,Long sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Gray,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Round,Shirt,One layer
+Solid,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,V-shape,Outerwear,Multiple layers
+Graphics,Red,Short sleeve,Round,T-shirt,One layer
+Solid,White,Long sleeve,Folded,Outerwear,Multiple layers
+Floral,Pink,No sleeve,Round,Dress,One layer
+Solid,Gray,Short sleeve,Round,T-shirt,One layer
+Solid,Pink,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Red,Long sleeve,Round,Dress,One layer
+Solid,Red,No sleeve,Round,Dress,One layer
+Striped,Black,Long sleeve,Round,Dress,One layer
+Solid,More than 1 color,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Red,Long sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,White,No sleeve,Round,Tank top,One layer
+Striped,More than 1 color,Long sleeve,Folded,Shirt,One layer
+Graphics,Red,Short sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Suit,Multiple layers
+Solid,Black,Long sleeve,Round,Dress,Multiple layers
+Solid,Blue,Long sleeve,Folded,Shirt,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Solid,Black,Short sleeve,Folded,Shirt,One layer
+Floral,More than 1 color,No sleeve,Round,Dress,One layer
+Solid,White,Short sleeve,V-shape,Shirt,One layer
+Solid,Black,Long sleeve,Round,T-shirt,One layer
+Solid,White,Short sleeve,Round,T-shirt,One layer
+Solid,White,No sleeve,Round,Tank top,One layer
+Graphics,White,Long sleeve,Folded,Shirt,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,No sleeve,Round,Dress,One layer
+Solid,Black,Long sleeve,Folded,Outerwear,Multiple layers
+Graphics,White,Short sleeve,Round,T-shirt,One layer
