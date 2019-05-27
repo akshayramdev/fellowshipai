@@ -42,6 +42,7 @@ Our model got max accuracy of 95% but IOU of 50%, which did not cross the baseli
 
 #### Approach 2 : Sliding Window Patches of size 250 and Resnet-18 as encoder
 For JPEG images, our model got max accuracy of 95% and IOU of 70%.
+
 For TIFF images, our model got max accuracy of 96% and IOU of 72%. We are submitting the predictions on test images using later model for the challenge as of 20th May 2019.
 
 #### Approach 3 : Sliding Window Patches of size 256 and Resnet-18 as encoder
