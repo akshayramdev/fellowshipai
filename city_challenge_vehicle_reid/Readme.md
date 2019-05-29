@@ -1,7 +1,7 @@
 # [AI City Challenge 2019](https://www.aicitychallenge.org/2019-challenge-tracks/)
 
 
-**Team Members** :  Avinash Kappa, Nitin Kumar, Pramod Geddam and Shubham
+**Team Members** :  Avinash Kappa, Nitin, Pramod Geddam and Shubham
 
 ---
 
