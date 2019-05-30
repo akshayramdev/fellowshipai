@@ -73,9 +73,41 @@ After we train classifier we use the penultimate layer (Linear layer of size 512
 
 We will use siamese network with triplet loss as baseline. 
 
+A siamese neural network consists of same network typically a CNN, which accept distinct inputs and generates embeddings as output. We add different loss functions to encourage brining similar images together and different images apart in embedding space. Siamese NNs are popular among tasks that involve finding similarity or a relationship between two comparable things. Siamese networks typically share the same base network (CNN) which can be used as embedding extractor i.e. 3 inputs for triplet loss which will generate 3 outputs of embedding size of 128 or 2 inputs for contrastive loss will generate 2 outputs of embedding size of 128. 
 
 
 ---
+
+## Types of Siamese Networks
+
+Siamese Networks come in two flavours: using triplet loss and another using contrastive loss. Let's visit each of them.
+
+
+- **Triplets Loss**
+
+Triplets, are basically 3 images (yeah, no brainer!) which are anchor, positive and negative. What are these? **The anchor is any example from dataset. The positive is any example other than anchor belonging to same class as anchor.** And finally, **negative is any example belonging to class other than that of the anchor. In triplet loss, what we do is sample lot's of triplets.** There are different ways to sample triplets (or known as mining triplets) and this is what makes and breaks triplet loss approach. For some distance on the embedding space d, the loss of a triplet (a,p,n) is
+
+$$\mathcal{L} = max(d(a, p) - d(a, n) + margin, 0)$$
+
+
+There are different kinds of triplets such as easy triplets, semi-hard triplets, hard triplets. **Easy triplets are triplets which have loss 0**, because $$d(a, p) + margin < d(a,n)$$ **Semi-hard triplets are triplets where the negative is not closer to the anchor than the positive, but which still have positive loss,** i.e. $$d(a, p) < d(a, n) < d(a, p) + margin$$ **Hard Triplets are triplets where the negative is closer to the anchor than the positive**, i.e. $$d(a,n) < d(a,p)$$
+
+
+In the original Facenet paper, they pick a random semi-hard negative for every pair of anchor and positive, and train on these triplets and also according to paper, selecting the hardest negatives can in practice lead to bad local minima early on in training. "Additionally, the selected triplets can be considered moderate triplets, since they are the hardest within a small subset of the data, which is exactly what is best for learning with the triplet loss", according to [this](https://arxiv.org/abs/1703.07737) paper. So, there is no thumb rule but starting with semi-hard yields good results and poor results with easy triplets.
+
+
+Now having decided what strategy to use for batching the triplets, comes the challenge of training on batch of triplets. There are two ways in which batches of triplets can be trained : (i) **Offline triplet mining, where we produce triplets offline, at the beginning of each epoch for instance.** We compute all the embeddings on the training set, and then only select hard or semi-hard triplets. We can then train one epoch on these triplets. (ii) **Online triplet mining, where we compute useful triplets on the fly, for each batch of inputs.** This technique gives you more triplets for a single batch of inputs, and doesn’t require any offline mining. It is therefore much more efficient. Details of each method are described in [this](https://arxiv.org/abs/1703.07737) paper.
+
+ The motivation is that the triplet loss encourages all examples belonging to same class i.e. of one  identity to be projected onto a single point in the embedding  space.
+
+
+- **Contrastive Loss**
+
+This the simplest among the two. Here, we sample two pairs of images, one **positive** and another **negative** or also known as, **similar** and **different**  pairs unlike above where we sample triplets. The two pairs i.e. **similar which contains any two images belonging to similar class** and **different where any two images belong to different class.** So, we create a lot many such similar and different pairs and pass it to any CNN architecture without the head(classification layer) and use the dimension of penultimate layer or add any number of linear layers  to obtain embeddings of size, say 128. Different name for loss suggests, we are not using our typical classification loss such as NLL or cross entropy for classification as there is no classification layer. So, how can we train our model (as in, what to backpropogate)? The answer is contrastive loss. **Contrastive Loss is a distance-based loss where such losses try to ensure that semantically similar examples are embedded close together.** This is what makes them special for our case, where we want similar images to be present closer in the embedding space and push different pairs away. We can also train by adding cross entropy as loss function with labels as 0 for similar images and 1 for different images. To learn more about this loss function, please read the paper linked below.
+
+
+---
+
 
 ## Experiments
 
@@ -149,13 +181,27 @@ Siamese Network will yield impressive results as they are specifically designed 
 
 --- 
 
-## Reference Papers
+## References
 
-1. [CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification](https://arxiv.org/pdf/1903.09254)
+[CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification](https://arxiv.org/pdf/1903.09254)
 
-2. [Person Re-Identification in Identity Regression Space](https://arxiv.org/pdf/1806.09695.pdf)
+[Person Re-Identification in Identity Regression Space](https://arxiv.org/pdf/1806.09695.pdf)
 
-3. [Attention Driven Person Re-identification](https://arxiv.org/pdf/1810.05866.pdf)
+[Attention Driven Person Re-identification](https://arxiv.org/pdf/1810.05866.pdf)
+
+[Signature Verification using a "Siamese" Time Delay Neural Network ](https://papers.nips.cc/paper/769-signature-verification-using-a-siamese-time-delay-neural-network.pdf)
+
+[Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+
+[Facenet paper introducing Triplets](https://arxiv.org/abs/1503.03832)
+
+[Contrastive Loss paper](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)
+
+[In defense of Triplet Loss for Person Re-identification](https://arxiv.org/abs/1703.07737)
+
+[Andrew Ng's Triplet Loss Lecture](https://www.coursera.org/learn/convolutional-neural-networks/lecture/HuUtN/triplet-loss)
+
+[Triplet Loss and Online Triplet Mining in TensorFlow](https://omoindrot.github.io/triplet-loss)
 
 
 
