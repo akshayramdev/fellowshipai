@@ -2,7 +2,7 @@
 
 **Aerial** photography is used in cartography, land-use planning, archaeology, environmental studies, power line inspection, surveillance, commercial advertising, conveyancing, and artistic projects.
 
-One of the case study we are working is, to figure out the building from the aerial images. 
+One of the case study we are working is, to figure out the building from the aerial images. Building detection from aerial imagery has many applications in a wide range of areas including urban design, real-estate management, disaster relief etc. Classifying aerial images based on the presence or absence of buildings can be both challenging and tedious to the human eye, given that we are talking about aerial images, where a building could only be a few pixels in the image.
 
 # Aerial Image Classification:
 
