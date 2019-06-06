@@ -47,3 +47,13 @@ For TIFF images, our model got max accuracy of 96% and IOU of 72%. We are submit
 
 #### Approach 3 : Sliding Window Patches of size 256 with overlap of 6pixels and Resnet-18 as encoder
 For TIFF images, our model got max accuracy of 96% and IOU of 75.5%. We are submitting the predictions on test images using later model for the challenge as of 27th May 2019.
+
+#### Summary
+This is a summary of the three approaches:
+
+| Approach        | Image Preprocessing           | Accuracy  | IOU |
+| --------------- |:-----------------------:| -----:|------:|
+| 1               | resized to 512X512 size | 95% |  50%     |
+| 2               | Sliced to 250X250 size(no overlap)  |   96% | 72%   |
+| 3               | Sliced to 256X256 size (with overlap)     |    96% |  75.5%  |  
+
