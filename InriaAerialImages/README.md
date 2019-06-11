@@ -49,7 +49,7 @@ For TIFF images, our model got max accuracy of 96% and IOU of 72%. We are submit
 For TIFF images, our model got max accuracy of 96% and IOU of 75.5%. We are submitting the predictions on test images using later model for the challenge as of 27th May 2019.
 
 #### Summary
-This is a summary of the three approaches:
+This is a summary of the three approaches on validation set:
 
 | Approach        | Image Preprocessing           | Accuracy  | IOU |
 | --------------- |:-----------------------:| -----:|------:|
@@ -57,3 +57,16 @@ This is a summary of the three approaches:
 | 2               | Sliced to 250X250 size(no overlap)  |   96% | 72%   |
 | 3               | Sliced to 256X256 size (with overlap)     |    96% |  75.5%  |  
 
+#### Submitted results on test set
+
+| Test | Tiles| IOU | Accuracy |
+|-----:|-----:|-----:|-----:|
+|Bellingham, WA |36| 69.42 | 96.95|
+|Bloomington, IN | 36 | 68.06 | 96.94 |
+|Innsbruck, Austria |36| 72.67 | 96.74 |
+|San Francisco, CA |36| 68.78 | 89.81 |
+|East Tyrol, Austria | 36| 76.51 | 97.89 |
+| Total | 180| 70.36 | 95.67 |
+
+#### Next steps
+Improve the results with fine tuning and try different architectures.
