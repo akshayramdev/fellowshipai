@@ -62,10 +62,10 @@ This is a summary of the three approaches on validation set:
 | Test | Tiles| IOU | Accuracy |
 |-----:|-----:|-----:|-----:|
 |Bellingham, WA |36| 69.42 | 96.95|
-| San Francisco, CA| 36 | 68.06 | 96.94 |
-| Bloomington, IN |36| 72.67 | 96.74 |
-|Innsbruck, Austria |36| 68.78 | 89.81 |
-| East Tyrol, Austria| 36| 76.51 | 97.89 |
+|Bloomington, IN | 36 | 68.06 | 96.94 |
+|Innsbruck, Austria |36| 72.67 | 96.74 |
+|San Francisco, CA |36| 68.78 | 89.81 |
+|East Tyrol, Austria | 36| 76.51 | 97.89 |
 | Total | 180| 70.36 | 95.67 |
 
 #### Next steps
